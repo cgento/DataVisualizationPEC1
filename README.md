@@ -10,19 +10,23 @@ Me llamo Carlos Gento, y esta es mi presentación para la PEC2 de la asignatura 
 
 
 ## Pie Chart
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+
+
+
 
 
 <p align="center">
   <img src="images/Pie_chart.png" />
  </p>
 
+## Example2
 <p align="center">
   <img src="images/Matrix_plot.png" />
  </p>
  
- <p align="center">
+## Third Example
+<p align="center">
   <img src="images/Tile_Grid_Map.png" />
  </p>
+
+## [Fourth Example](http://www.fourthexample.com) 

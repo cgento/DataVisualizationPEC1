@@ -14,15 +14,15 @@
 - **Ejemplos:** Proporciones de hombres y mujeres en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, proporción
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 
-<center>
+<div align="center">
   
-  |                         	| Nivel educativo 	|
-  |-------------------------	|-----------------	|
-  | Inferior a bachillerato 	| 150             	|
-  | Bachillerato            	| 200             	|
-  | Estudios Universitarios 	| 500             	|
+|                         	| Nivel educativo 	|
+|-------------------------	|-----------------	|
+| Inferior a bachillerato 	| 150             	|
+| Bachillerato            	| 200             	|
+| Estudios Universitarios 	| 500             	|
   
-</center>
+</div>
  
   
 - **Limitaciones:**

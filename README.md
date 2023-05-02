@@ -12,13 +12,15 @@
 - **Origen:** Principios del siglo XIX
 - **Descripción:** Es un círculo dividido en sectores proporcionales que representan una proporción de un total. Su objetivo es mostrar cómo se dividen los datos en proporciones o porcentajes entre categorías. La suma de proporciones debe ser igual al total de la muestra, y la de porcentajes debe ser igual al 100%.
 - **Ejemplos:** Proporciones de hombres y mujeres en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, 
-- **Tipos de datos:** Categóricos (para los sectores) y numéricos.
+- **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 - **Limitaciones:**
    * Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
    * No es fácil compararlos con otro Pie Charts.
    * No pueden representar evoluciones temporales.
 - **Ejemplo de visualización: Cáncer de mama**
+
 Datos utilizados: [Kaggle Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+
 <p align="center">
   <img src="images/Pie_chart.png" />
  </p>

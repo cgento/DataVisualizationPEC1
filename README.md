@@ -31,7 +31,7 @@
 
 - **Ejemplo de visualización: Distribución de adultos por raza**
 
-   * Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+   Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
  <p align="center">
   <img src="images/Pie_chart.png" />

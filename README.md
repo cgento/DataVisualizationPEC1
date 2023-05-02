@@ -14,9 +14,9 @@
 - **Ejemplos:** Proporciones de hombres y mujeres en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, 
 - **Tipos de datos:** Categóricos (para los sectores) y numéricos.
 - **Limitaciones:**
-\t1. Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
-2. No es fácil compararlos con otro Pie Charts.
-3. No pueden representar evoluciones temporales.
+   * 1. Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
+   * 2. No es fácil compararlos con otro Pie Charts.
+   * 3. No pueden representar evoluciones temporales.
 
 - Ejemplo de visualización: Cáncer de mama
 

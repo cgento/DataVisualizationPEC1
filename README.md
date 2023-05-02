@@ -6,4 +6,4 @@ Me llamo Carlos Gento, y esta es mi presentación para la PEC2 de la asignatura 
 
 ![Matrix Plot](images/Matrix_plot.png?raw=true "Matrix Plot")
 
-![Tile Grid Map](images/Map_ Tile_Grid.png?raw=true "Matrix Plot")
+![Tile Grid Map](images/Map_Tile_Grid.png?raw=true "Tile Grid Map")

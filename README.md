@@ -15,12 +15,14 @@
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 
 <center>
-|                         	| Nivel educativo 	|
-|-------------------------	|-----------------	|
-| Inferior a bachillerato 	| 150             	|
-| Bachillerato            	| 200             	|
-| Estudios Universitarios 	| 500             	|
+  |                         	| Nivel educativo 	|
+  |-------------------------	|-----------------	|
+  | Inferior a bachillerato 	| 150             	|
+  | Bachillerato            	| 200             	|
+  | Estudios Universitarios 	| 500             	|
+  
 <\center>
+ 
   
 - **Limitaciones:**
    * Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.

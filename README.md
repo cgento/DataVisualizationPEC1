@@ -15,6 +15,7 @@
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 
 <center>
+  
   |                         	| Nivel educativo 	|
   |-------------------------	|-----------------	|
   | Inferior a bachillerato 	| 150             	|

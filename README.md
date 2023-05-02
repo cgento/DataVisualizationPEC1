@@ -1,19 +1,24 @@
-# Estudio de técnicas de visualización de datos (PEC2)
-# Visualización de Datos
-## Alumno: Carlos Luis Gento de Celis
-Me llamo Carlos Gento, y esta es mi presentación para la PEC2 de la asignatura de Visualización de datos del Máster Universitario en Ciencia de datos de la UOC.
+# PEC2: Estudio de técnicas de visualización de datos
+## Visualización de Datos
+## Master Universitario en Ciencia de Datos
+### Alumno: Carlos Luis Gento de Celis
 
 # Índice
 1. [Pie Chart](#pie-chart)
 2. [Matrix Plot](#matrix-plot)
 3. [Tile Grid Map](#tile-grid-map)
 
-
-
 ## Pie Chart
+- Origen
+- Descripción
+- Ejemplos
+- Tipos de datos y limitaciones
+- Ejemplo de visualización: Cáncer de mama
 <p align="center">
   <img src="images/Pie_chart.png" />
  </p>
+- Descripción del gráfico
+
 
 ## Matrix Plot
 <p align="center">

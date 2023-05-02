@@ -22,7 +22,7 @@
   | Bachillerato            	| 200             	|
   | Estudios Universitarios 	| 500             	|
   
-<\center>
+</center>
  
   
 - **Limitaciones:**

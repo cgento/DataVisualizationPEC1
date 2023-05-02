@@ -16,9 +16,11 @@
 - Limitaciones: No son fáciles de leer cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
 
 - Ejemplo de visualización: Cáncer de mama
+
 <p align="center">
   <img src="images/Pie_chart.png" />
  </p>
+ 
 - Descripción del gráfico
 
 

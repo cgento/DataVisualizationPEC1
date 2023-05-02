@@ -21,8 +21,9 @@
 
 Datos utilizados: [Kaggle Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 
- 
-
+ <p align="center">
+  <img src="images/Pie_chart.png" />
+ </p>
 
 
 ## Matrix Plot

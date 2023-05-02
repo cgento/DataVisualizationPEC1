@@ -37,7 +37,9 @@
   <img src="images/Pie_chart.png" />
  </p>
 
- | Más del 80% de la muestra de individuos son de raza blanca. El siguiente grupo más numeroso es el de raza negra, que representa el 9.6% de la muesta. El resto de razas representa el 4.9%.
+ ```
+ Más del 80% de la muestra de individuos son de raza blanca. El siguiente grupo más numeroso es el de raza negra, que representa el 9.6% de la muesta. El resto de razas representa el 4.9%.
+ ```
 
 ## Matrix Plot
 <p align="center">

@@ -9,10 +9,12 @@
 3. [Tile Grid Map](#tile-grid-map)
 
 ## Pie Chart
-- Origen
-- Descripción
-- Ejemplos
-- Tipos de datos y limitaciones
+- Origen: Principios del siglo XIX
+- Descripción: Es un círculo dividido en sectores proporcionales que representan una proporción de un total. Su objetivo es mostrar cómo se dividen los datos en proporciones o porcentajes entre categorías. La suma de proporciones debe ser igual al total de la muestra, y la de porcentajes debe ser igual al 100%.
+- Ejemplos: Proporciones de hombres y mujeres en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, 
+- Tipos de datos: Categóricos 
+- Limitaciones: No son fáciles de leer cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
+
 - Ejemplo de visualización: Cáncer de mama
 <p align="center">
   <img src="images/Pie_chart.png" />

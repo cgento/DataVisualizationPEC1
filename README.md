@@ -60,49 +60,48 @@
 - **Ejemplo de estructura de datos**: Evolución temporal del porcentaje de población para cada nivel educativo
 
 <div align="center">
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"></th>
-    <th class="tg-c3ow">1970</th>
-    <th class="tg-0lax">1980</th>
-    <th class="tg-0lax">1990</th>
-    <th class="tg-0lax">2000</th>
-    <th class="tg-0lax">2010</th>
-    <th class="tg-0lax">2020</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Inferior a Bachillerato</td>
-    <td class="tg-c3ow">50%</td>
-    <td class="tg-0lax">45%</td>
-    <td class="tg-0lax">40%</td>
-    <td class="tg-0lax">35%</td>
-    <td class="tg-0lax">30%</td>
-    <td class="tg-0lax">25%</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Bachillerato</td>
-    <td class="tg-c3ow">45%</td>
-    <td class="tg-0lax">45%</td>
-    <td class="tg-0lax">50%</td>
-    <td class="tg-0lax">50%</td>
-    <td class="tg-0lax">45%</td>
-    <td class="tg-0lax">40%</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Estudios Universitarios</td>
-    <td class="tg-c3ow">5%</td>
-    <td class="tg-0lax">10%</td>
-    <td class="tg-0lax">10%</td>
-    <td class="tg-0lax">15%</td>
-    <td class="tg-0lax">25%</td>
-    <td class="tg-0lax">35%</td>
-  </tr>
-</tbody>
-</table>
-  
+  <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-0pky"></th>
+      <th class="tg-c3ow">1970</th>
+      <th class="tg-0lax">1980</th>
+      <th class="tg-0lax">1990</th>
+      <th class="tg-0lax">2000</th>
+      <th class="tg-0lax">2010</th>
+      <th class="tg-0lax">2020</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-0pky">Inferior a Bachillerato</td>
+      <td class="tg-c3ow">50%</td>
+      <td class="tg-0lax">45%</td>
+      <td class="tg-0lax">40%</td>
+      <td class="tg-0lax">35%</td>
+      <td class="tg-0lax">30%</td>
+      <td class="tg-0lax">25%</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Bachillerato</td>
+      <td class="tg-c3ow">45%</td>
+      <td class="tg-0lax">45%</td>
+      <td class="tg-0lax">50%</td>
+      <td class="tg-0lax">50%</td>
+      <td class="tg-0lax">45%</td>
+      <td class="tg-0lax">40%</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Estudios Universitarios</td>
+      <td class="tg-c3ow">5%</td>
+      <td class="tg-0lax">10%</td>
+      <td class="tg-0lax">10%</td>
+      <td class="tg-0lax">15%</td>
+      <td class="tg-0lax">25%</td>
+      <td class="tg-0lax">35%</td>
+    </tr>
+  </tbody>
+  </table> 
 </div>
  
 - **Limitaciones:**
@@ -128,48 +127,48 @@
 - **Ejemplo de estructura de datos**: Elecciones presidenciales EEUU 2020
 
 <div align="center">
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Estado</th>
-    <th class="tg-c3ow">Ganador</th>
-    <th class="tg-c3ow">Fila</th>
-    <th class="tg-c3ow">Columna</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Alabama</td>
-    <td class="tg-c3ow">TRUMP</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Arizona</td>
-    <td class="tg-c3ow">BIDEN</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">California</td>
-    <td class="tg-c3ow">BIDEN</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">0</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Florida</td>
-    <td class="tg-0pky">TRUMP</td>
-    <td class="tg-0pky">0</td>
-    <td class="tg-0pky">7</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Michigan</td>
-    <td class="tg-0pky">BIDEN</td>
-    <td class="tg-0pky">5</td>
-    <td class="tg-0pky">7</td>
-  </tr>
-</tbody>
-</table>
+  <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-0pky">Estado</th>
+      <th class="tg-c3ow">Ganador</th>
+      <th class="tg-c3ow">Fila</th>
+      <th class="tg-c3ow">Columna</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-0pky">Alabama</td>
+      <td class="tg-c3ow">TRUMP</td>
+      <td class="tg-c3ow">1</td>
+      <td class="tg-c3ow">6</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Arizona</td>
+      <td class="tg-c3ow">BIDEN</td>
+      <td class="tg-c3ow">2</td>
+      <td class="tg-c3ow">2</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">California</td>
+      <td class="tg-c3ow">BIDEN</td>
+      <td class="tg-c3ow">3</td>
+      <td class="tg-c3ow">0</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Florida</td>
+      <td class="tg-0pky">TRUMP</td>
+      <td class="tg-0pky">0</td>
+      <td class="tg-0pky">7</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Michigan</td>
+      <td class="tg-0pky">BIDEN</td>
+      <td class="tg-0pky">5</td>
+      <td class="tg-0pky">7</td>
+    </tr>
+  </tbody>
+  </table>
 </div>
  
 - **Limitaciones:**

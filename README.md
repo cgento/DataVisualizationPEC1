@@ -13,8 +13,27 @@
 - **Ejemplos:** Proporción de individios para cada nivel educativo en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, distribución del valor de cada tipo de activo financiero (acciones, fondos de inversión, renta foja...) en la riqueza financiera de un hogar.
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 
-<div align="center">
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
+
+<div align="center"> 
+  
   Número de individuos para cada nivel educativo
   
 |  	| Nivel educativo 	|
@@ -98,6 +117,6 @@
 
 <p align="center">
   <img src="images/Tile_Grid_Map.png" />
- </p>
+</p>
 
    * Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.

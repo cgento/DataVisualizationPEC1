@@ -41,6 +41,7 @@
   
 - **Limitaciones:**
    * Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
+   * Es difícil comparar dos Pie charts.
    * No pueden representar evoluciones temporales.
 
 - **Ejemplo de visualización: Distribución de adultos por raza**

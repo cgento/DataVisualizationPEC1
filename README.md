@@ -24,7 +24,8 @@
 | Estudios Universitarios 	| 250 	|
   
 </div>
- 
+
+ * El 85.5% de los individuos de la muesta son de raza blanca. La siguiente con mayor representación es la negra, con el 9.6%. El resto de razas representan el 4.9% de la muestra.
   
 - **Limitaciones:**
    * Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
@@ -67,6 +68,8 @@
   <img src="images/Matrix_plot.png" />
  </p>
  
+ * En los fines de semana hay menos llamadas al 911 que durante la semana.
+ * Durante las horas de sueño (22h- 6h hay menos llamadas que durante el día. El tramo horario que tiene más llamadas es entre las 15h y las 18h, que es cuando suele terminar la jornada de trabajo y hay más desplazamientos de vuelta a casa.
   
 ## Tile Grid Map
 - **Descripción:** Es un mapa en el que cada región geográfica está representada por losetas de la misma forma y tamaño. Éstas se organizan de tal manera que se mantienen las relaciones locales entre regiones, y a su vez la forma general del mapa original. Las losetas pueden ser de un color específico o incluso contener un gráfico. Este tipo de mapa permite observar regiones pequeñas que serían imperceptibles en mapas coropléticos tradicionales, y a la vez mantienen cierta lógica geográfica. Son útiles cuando el tamaño geográfico no es importante para el análisis.
@@ -96,3 +99,5 @@
 <p align="center">
   <img src="images/Tile_Grid_Map.png" />
  </p>
+
+   * Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.

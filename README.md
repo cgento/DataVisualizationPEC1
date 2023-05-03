@@ -14,29 +14,29 @@
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 - **Ejemplo de estructura de datos**: Número de individuos para cada nivel educativo
 
-<div align="center"> 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Nivel educativo</th>
-    <th class="tg-c3ow">Personas</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Inferior a Bachillerato</td>
-    <td class="tg-c3ow">150</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Bachillerato</td>
-    <td class="tg-c3ow">500</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Estudios Universitarios</td>
-    <td class="tg-c3ow">250</td>
-  </tr>
-</tbody>
-</table>
+<div align="center">
+  <table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-0pky">Nivel educativo</th>
+      <th class="tg-c3ow">Personas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-0pky">Inferior a Bachillerato</td>
+      <td class="tg-c3ow">150</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Bachillerato</td>
+      <td class="tg-c3ow">500</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Estudios Universitarios</td>
+      <td class="tg-c3ow">250</td>
+    </tr>
+  </tbody>
+  </table>
 </div>
   
 - **Limitaciones:**

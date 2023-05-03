@@ -59,8 +59,9 @@
 - **Tipos de datos:** Numéricas y categóricas. Tienen que poder representarse en formato de matriz.
 - **Ejemplo de estructura de datos**: Evolución temporal del porcentaje de población para cada nivel educativo
 
-<div align="center">
-  <table class="tg">
+aaaaaaa<div align="center">
+aaaaaaaaaaa<table class="tg">
+  <table class="center">
   <thead>
     <tr>
       <th class="tg-0pky"></th>

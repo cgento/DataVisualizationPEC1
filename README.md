@@ -38,16 +38,15 @@
 </tbody>
 </table>
 </div>
-
- * El 85.5% de los individuos de la muesta son de raza blanca. La siguiente con mayor representación es la negra, con el 9.6%. El resto de razas representan el 4.9% de la muestra.
   
 - **Limitaciones:**
    * Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
    * No pueden representar evoluciones temporales.
 
 - **Ejemplo de visualización: Distribución de adultos por raza**
-
-    Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+ * Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+ * El 85.5% de los individuos de la muesta son de raza blanca. La siguiente con mayor representación es la negra, con el 9.6%. El resto de razas representan el 4.9% de la muestra.
+ 
 
  <p align="center">
   <img src="images/Pie_chart.png" />
@@ -112,15 +111,17 @@
 
 - **Ejemplo de visualización: Mapa de calor, llamadas al 911 por día de la semana y hora**
 
-    Datos utilizados: [Kaggle Emergency - 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
+  * Datos utilizados: [Kaggle Emergency - 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
+ * En los fines de semana hay menos llamadas al 911 que durante la semana.
+ * Durante las horas de sueño (22h- 6h hay menos llamadas que durante el día. El tramo horario que tiene más llamadas es entre las 15h y las 18h, que es cuando suele terminar la jornada de trabajo y hay más desplazamientos de vuelta a casa.
+
 <p align="center">
   <img src="images/Matrix_plot.png" />
  </p>
  
- * En los fines de semana hay menos llamadas al 911 que durante la semana.
- * Durante las horas de sueño (22h- 6h hay menos llamadas que durante el día. El tramo horario que tiene más llamadas es entre las 15h y las 18h, que es cuando suele terminar la jornada de trabajo y hay más desplazamientos de vuelta a casa.
-  
+ 
 ## Tile Grid Map
+
 - **Descripción:** Es un mapa en el que cada región geográfica está representada por losetas de la misma forma y tamaño. Éstas se organizan de tal manera que se mantienen las relaciones locales entre regiones, y a su vez la forma general del mapa original. Las losetas pueden ser de un color específico o incluso contener un gráfico. Este tipo de mapa permite observar regiones pequeñas que serían imperceptibles en mapas coropléticos tradicionales, y a la vez mantienen cierta lógica geográfica. Son útiles cuando el tamaño geográfico no es importante para el análisis.
 - **Ejemplos:** Comparar las tasas de criminalidad en los diferentes distritos de una ciudad, comparar las tasas de mortalidad del Covid-19 en cada región de Europa.
 - **Tipos de datos:** Numéricas y categóricas. Es necesario tener datos de identificación regional, y crear una rejilla en la que colocar las losetas.
@@ -176,6 +177,7 @@
    * La forma de las losetas condiciona la forma de los mapas y las posibles conclusiones. La distribución no es igual si se utilizan losetas cuadradas en vez de exagonales.
 
 - **Ejemplo de visualización: Elecciones presidenciales de EEUU 2020**
+   * Datos utilizados: [US Elections Dataset](https://www.kaggle.com/datasets/tunguz/us-elections-dataset)
    * Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.
 <p align="center">
   <img src="images/Tile_Grid_Map.png" />

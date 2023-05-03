@@ -59,9 +59,8 @@
 - **Tipos de datos:** Numéricas y categóricas. Tienen que poder representarse en formato de matriz.
 - **Ejemplo de estructura de datos**: Evolución temporal del porcentaje de población para cada nivel educativo
 
-aaaaaaa<div align="center">
-aaaaaaaaaaa<table class="tg">
-  <table class="center">
+<div align="center">
+  <table class="tg">
   <thead>
     <tr>
       <th class="tg-0pky"></th>
@@ -112,8 +111,8 @@ aaaaaaaaaaa<table class="tg">
 - **Ejemplo de visualización: Mapa de calor, llamadas al 911 por día de la semana y hora**
 
   * Datos utilizados: [Kaggle Emergency - 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
- * En los fines de semana hay menos llamadas al 911 que durante la semana.
- * Durante las horas de sueño (22h- 6h hay menos llamadas que durante el día. El tramo horario que tiene más llamadas es entre las 15h y las 18h, que es cuando suele terminar la jornada de trabajo y hay más desplazamientos de vuelta a casa.
+  * En los fines de semana hay menos llamadas al 911 que durante la semana.
+  * Durante las horas de sueño (22h- 6h hay menos llamadas que durante el día. El tramo horario que tiene más llamadas es entre las 15h y las 18h, que es cuando suele terminar la jornada de trabajo y hay más desplazamientos de vuelta a casa.
 
 <p align="center">
   <img src="images/Matrix_plot.png" />

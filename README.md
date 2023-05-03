@@ -176,9 +176,7 @@
    * La forma de las losetas condiciona la forma de los mapas y las posibles conclusiones. La distribución no es igual si se utilizan losetas cuadradas en vez de exagonales.
 
 - **Ejemplo de visualización: Elecciones presidenciales de EEUU 2020**
-
+   * Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.
 <p align="center">
   <img src="images/Tile_Grid_Map.png" />
 </p>
-
-   ** Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.

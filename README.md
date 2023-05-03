@@ -9,7 +9,7 @@
 3. [Tile Grid Map](#tile-grid-map)
 
 ## Pie Chart
-- **Descripción:** Es un círculo dividido en sectores proporcionales que representan una proporción de un total. Su objetivo es mostrar cómo se dividen los datos en proporciones o porcentajes entre categorías. La suma de proporciones debe ser igual al total de la muestra, y la de porcentajes debe ser igual al 100%.
+- **Descripción:** Círculo dividido en sectores proporcionales que representan una proporción de un total. Su objetivo es mostrar cómo se distribuyen los datos en proporciones o porcentajes entre categorías de una variable.
 - **Ejemplos:** Proporción de individios para cada nivel educativo en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, distribución del valor de cada tipo de activo financiero (acciones, fondos de inversión, renta foja...) en la riqueza financiera de un hogar.
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 - **Ejemplo de estructura de datos**: Número de individuos para cada nivel educativo
@@ -54,9 +54,9 @@
 
 
 ## Matrix Plot
-- **Descripción:** Tipo de gráfico que permite visualizar datos que puedan representarse en formato de matriz. Las filas y columnas de la matriz generalmente representan dos variables categóricas, y cada celda representa el valor para ese punto de la matriz. Permiten ver patrones y correlaciones entre variables, o incluso cómo cambian los valores de una categoría a lo largo del tiempo. Un ejemplo es el mapa de calor, en el que las diferencias en los valores se presentan a través de variaciones en los colores de las celdas.
+- **Descripción:** Gráfico que permite visualizar datos que puedan representarse en formato de matriz. Las filas y columnas de la matriz representan dos variables (generalmente categóricas), y la intersección de ambas en la matriz representa un valor para esa combinación. Las diferencias en ese valor puede venir representado por figuras de diferentes tamaños o por variaciones en la coloración de las celdas (heatmap). Su objetivo es mostrar patrones y correlaciones entre variables, pero también pueden mostrar cómo cambian los valores de una categoría a lo largo del tiempo.
 - **Ejemplos:** Matrices de correlaciones, matrices de distacias, porcentaje de personas para cada nivel de estudios a lo largo de las décadas.
-- **Tipos de datos:** Numéricas y categóricas. Tienen que poder representarse en formato de matriz.
+- **Tipos de datos:** Numéricos y categóricos. Tienen que poder representarse en formato de matriz.
 - **Ejemplo de estructura de datos**: Evolución temporal del porcentaje de población para cada nivel educativo
 
 <div align="center">
@@ -105,7 +105,8 @@
 </div>
  
 - **Limitaciones:**
-   * Muchas veces es necesario hacer un tratamiento previo de los datos.
+   * Muchas veces es necesario hacer un tratamiento previo de los datos para configurarlos en forma de matriz.
+   * Las figuras de diferentes tamaños en las celdas pueden ser confusas. Al ser humano le cuesta diferenciar entre áreas.
    * Es importante seleccionar una buena paleta de colores. Los colores deben contrastar.
 
 - **Ejemplo de visualización: Mapa de calor, llamadas al 911 por día de la semana y hora**

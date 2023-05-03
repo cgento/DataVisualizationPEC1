@@ -57,8 +57,8 @@
 </div>
  
 - **Limitaciones:**
+   * Muchas veces es necesario hacer un tratamiento previo de los datos.
    * Es importante seleccionar una buena paleta de colores. Los colores deben contrastar.
-   * 
 
 - **Ejemplo de visualización: Mapa de calor, llamadas al 911 por día de la semana y hora**
 
@@ -67,9 +67,30 @@
   <img src="images/Matrix_plot.png" />
  </p>
  
- 
- 
+  
 ## Tile Grid Map
+- **Descripción:** Es un mapa en el que cada región geográfica está representada por losetas de la misma forma y tamaño. Éstas se organizan de tal manera que se mantienen las relaciones locales entre regiones, y a su vez la forma general del mapa original. Las losetas pueden ser de un color específico o incluso contener un gráfico. Este tipo de mapa permite observar regiones pequeñas que serían imperceptibles en mapas coropléticos tradicionales, y a la vez mantienen cierta lógica geográfica. Son útiles cuando el tamaño geográfico no es importante para el análisis.
+- **Ejemplos:** Comparar las tasas de criminalidad en los diferentes distritos de una ciudad, comparar las tasas de mortalidad del Covid-19 en cada región de Europa.
+- **Tipos de datos:** Numéricas y categóricas. Es necesario tener datos de identificación regional.
+
+<div align="center">
+  
+  Evolución de la proporción de individuos por nivel de estudios. 1970 - 2000
+  
+|  	| 1970 	| 1980 	| 1990 	| 2000 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
+| Inferior a bachillerato 	| 50% 	| 40% 	| 35% 	| 30% 	|
+| Bachillerato 	| 45% 	| 50% 	| 50% 	| 40% 	|
+| Estudios Universitarios 	| 5% 	| 10% 	| 15% 	| 30% 	|
+  
+</div>
+ 
+- **Limitaciones:**
+   * No son mapas precisos. En estos mapas dos regiones que no comparten frontera pueden aparecer como vecinas. Si la geografía o la geolocalización son relevantes para el análisis o los datos, es mejor utilizar un mapa coroplético.
+   * La forma de las losetas condiciona la forma de los mapas y las posibles conclusiones. La distribución no es igual si se utilizan losetas cuadradas en vez de exagonales.
+
+- **Ejemplo de visualización: Elecciones presidenciales de EEUU 2020**
+
 <p align="center">
   <img src="images/Tile_Grid_Map.png" />
  </p>

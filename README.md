@@ -14,15 +14,28 @@
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 
 <div align="center"> 
-  
-  Número de individuos para cada nivel educativo
-  
-|  	| Nivel educativo 	|
-|---	|:---:	|
-| Inferior a bachillerato 	| 150 	|
-| Bachillerato 	| 500 	|
-| Estudios Universitarios 	| 250 	|
-  
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Nivel educativo</th>
+    <th class="tg-c3ow">Personas</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Inferior a Bachillerato</td>
+    <td class="tg-c3ow">150</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bachillerato</td>
+    <td class="tg-c3ow">500</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Estudios Universitarios</td>
+    <td class="tg-c3ow">250</td>
+  </tr>
+</tbody>
+</table>
 </div>
 
  * El 85.5% de los individuos de la muesta son de raza blanca. La siguiente con mayor representación es la negra, con el 9.6%. El resto de razas representan el 4.9% de la muestra.
@@ -46,14 +59,48 @@
 - **Tipos de datos:** Numéricas y categóricas. Tienen que poder representarse en formato de matriz.
 
 <div align="center">
-  
-  Evolución de la proporción de individuos por nivel de estudios. 1970 - 2000
-  
-|  	| 1970 	| 1980 	| 1990 	| 2000 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
-| Inferior a bachillerato 	| 50% 	| 40% 	| 35% 	| 30% 	|
-| Bachillerato 	| 45% 	| 50% 	| 50% 	| 40% 	|
-| Estudios Universitarios 	| 5% 	| 10% 	| 15% 	| 30% 	|
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-c3ow">1970</th>
+    <th class="tg-0lax">1980</th>
+    <th class="tg-0lax">1990</th>
+    <th class="tg-0lax">2000</th>
+    <th class="tg-0lax">2010</th>
+    <th class="tg-0lax">2020</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Inferior a Bachillerato</td>
+    <td class="tg-c3ow">50%</td>
+    <td class="tg-0lax">45%</td>
+    <td class="tg-0lax">40%</td>
+    <td class="tg-0lax">35%</td>
+    <td class="tg-0lax">30%</td>
+    <td class="tg-0lax">30%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bachillerato</td>
+    <td class="tg-c3ow">45%</td>
+    <td class="tg-0lax">45%</td>
+    <td class="tg-0lax">50%</td>
+    <td class="tg-0lax">50%</td>
+    <td class="tg-0lax">45%</td>
+    <td class="tg-0lax">40%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Estudios Universitarios</td>
+    <td class="tg-c3ow">5%</td>
+    <td class="tg-0lax">10%</td>
+    <td class="tg-0lax">10%</td>
+    <td class="tg-0lax">15%</td>
+    <td class="tg-0lax">25%</td>
+    <td class="tg-0lax">30%</td>
+  </tr>
+</tbody>
+</table>
   
 </div>
  

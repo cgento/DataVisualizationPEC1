@@ -12,6 +12,7 @@
 - **Descripción:** Es un círculo dividido en sectores proporcionales que representan una proporción de un total. Su objetivo es mostrar cómo se dividen los datos en proporciones o porcentajes entre categorías. La suma de proporciones debe ser igual al total de la muestra, y la de porcentajes debe ser igual al 100%.
 - **Ejemplos:** Proporción de individios para cada nivel educativo en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, distribución del valor de cada tipo de activo financiero (acciones, fondos de inversión, renta foja...) en la riqueza financiera de un hogar.
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
+- **Ejemplo de estructura de datos**: Número de individuos para cada nivel educativo
 
 <div align="center"> 
 <table class="tg">
@@ -57,6 +58,7 @@
 - **Descripción:** Tipo de gráfico que permite visualizar datos que puedan representarse en formato de matriz. Las filas y columnas de la matriz generalmente representan dos variables categóricas, y cada celda representa el valor para ese punto de la matriz. Permiten ver patrones y correlaciones entre variables, o incluso cómo cambian los valores de una categoría a lo largo del tiempo. Un ejemplo es el mapa de calor, en el que las diferencias en los valores se presentan a través de variaciones en los colores de las celdas.
 - **Ejemplos:** Matrices de correlaciones, matrices de distacias, porcentaje de personas para cada nivel de estudios a lo largo de las décadas.
 - **Tipos de datos:** Numéricas y categóricas. Tienen que poder representarse en formato de matriz.
+- **Ejemplo de estructura de datos**: Evolución temporal del porcentaje de población para cada nivel educativo
 
 <div align="center">
 <table class="tg">
@@ -79,7 +81,7 @@
     <td class="tg-0lax">40%</td>
     <td class="tg-0lax">35%</td>
     <td class="tg-0lax">30%</td>
-    <td class="tg-0lax">30%</td>
+    <td class="tg-0lax">25%</td>
   </tr>
   <tr>
     <td class="tg-0pky">Bachillerato</td>
@@ -97,7 +99,7 @@
     <td class="tg-0lax">10%</td>
     <td class="tg-0lax">15%</td>
     <td class="tg-0lax">25%</td>
-    <td class="tg-0lax">30%</td>
+    <td class="tg-0lax">35%</td>
   </tr>
 </tbody>
 </table>
@@ -122,6 +124,7 @@
 - **Descripción:** Es un mapa en el que cada región geográfica está representada por losetas de la misma forma y tamaño. Éstas se organizan de tal manera que se mantienen las relaciones locales entre regiones, y a su vez la forma general del mapa original. Las losetas pueden ser de un color específico o incluso contener un gráfico. Este tipo de mapa permite observar regiones pequeñas que serían imperceptibles en mapas coropléticos tradicionales, y a la vez mantienen cierta lógica geográfica. Son útiles cuando el tamaño geográfico no es importante para el análisis.
 - **Ejemplos:** Comparar las tasas de criminalidad en los diferentes distritos de una ciudad, comparar las tasas de mortalidad del Covid-19 en cada región de Europa.
 - **Tipos de datos:** Numéricas y categóricas. Es necesario tener datos de identificación regional, y crear una rejilla en la que colocar las losetas.
+- **Ejemplo de estructura de datos**: Elecciones presidenciales EEUU 2020
 
 <div align="center">
 <table class="tg">

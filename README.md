@@ -40,13 +40,13 @@
 
 
 ## Matrix Plot
-- **Descripción:** Tipo de gráfico que permite visualizar datos que puedan representarse en formato de matriz, como por ejemplo matrices de correlaciones o de distancias. Las filas y columnas de la matriz representan dos variables, que pueden ser numéricas o categóricas, mientras que el valor de cada celda representa el valor para ese punto de la matriz. Un ejemplo es el mapa de calor, en el que los valores de la matriz se presentan a través de variaciones en su color.
-- **Ejemplos:** Matrices de correlaciones, matrices de distacias, evolución temporal del porcentaje de voto a partidos políticos por región.
+- **Descripción:** Tipo de gráfico que permite visualizar datos que puedan representarse en formato de matriz. Las filas y columnas de la matriz generalmente representan dos variables categóricas, y cada celda representa el valor para ese punto de la matriz. Permiten ver patrones y correlaciones entre variables, o incluso cómo cambian los valores de una categoría a lo largo del tiempo. Un ejemplo es el mapa de calor, en el que las diferencias en los valores se presentan a través de variaciones en los colores de las celdas.
+- **Ejemplos:** Matrices de correlaciones, matrices de distacias, porcentaje de personas para cada nivel de estudios a lo largo de las décadas.
 - **Tipos de datos:** Numéricas y categóricas. Tienen que poder representarse en formato de matriz.
 
 <div align="center">
   
-  Evolución de la proporción de individuos por nivel educativo. 1970 - 2000
+  Evolución de la proporción de individuos por nivel de estudios. 1970 - 2000
   
 |  	| 1970 	| 1980 	| 1990 	| 2000 	|
 |---	|:---:	|:---:	|:---:	|:---:	|
@@ -56,17 +56,18 @@
   
 </div>
  
-  
 - **Limitaciones:**
-   * Cuesta leerlos cuando hay más de cuatro o cinco categorías. A los humanos les cuesta leer ángulos.
-   * No pueden representar evoluciones temporales.
+   * Es importante seleccionar una buena paleta de colores. Los colores deben contrastar.
+   * 
 
 - **Ejemplo de visualización: Mapa de calor, llamadas al 911 por día de la semana y hora**
 
-    Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+    Datos utilizados: [Kaggle Emergency - 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
 <p align="center">
   <img src="images/Matrix_plot.png" />
  </p>
+ 
+ 
  
 ## Tile Grid Map
 <p align="center">

@@ -181,4 +181,4 @@
   <img src="images/Tile_Grid_Map.png" />
 </p>
 
-      * Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.
+   ** Trump ganó en más estados del interior de EEUU, mientras que Biden lo hizo en el noreste del país y en la costa oeste.

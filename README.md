@@ -44,8 +44,8 @@
    * No pueden representar evoluciones temporales.
 
 - **Ejemplo de visualización: Distribución de adultos por raza**
- * Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
- * El 85.5% de los individuos de la muesta son de raza blanca. La siguiente con mayor representación es la negra, con el 9.6%. El resto de razas representan el 4.9% de la muestra.
+   * Datos utilizados: [Kaggle Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+   * El 85.5% de los individuos de la muesta son de raza blanca. La siguiente con mayor representación es la negra, con el 9.6%. El resto de razas representan el 4.9% de la muestra.
  
 
  <p align="center">

@@ -13,25 +13,6 @@
 - **Ejemplos:** Proporción de individios para cada nivel educativo en una muestra, porcentaje de ventas mensuales de cada producto en una tienda, distribución del valor de cada tipo de activo financiero (acciones, fondos de inversión, renta foja...) en la riqueza financiera de un hogar.
 - **Tipos de datos:** Numéricos y categóricos. Debe haber al menos una variable categórica.
 
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
-
-
 <div align="center"> 
   
   Número de individuos para cada nivel educativo
@@ -96,17 +77,57 @@
 - **Tipos de datos:** Numéricas y categóricas. Es necesario tener datos de identificación regional, y crear una rejilla en la que colocar las losetas.
 
 <div align="center">
-  
-  Resultados electorales EEUU 2020
-  
-| Cod_estado 	| Ganador 	| Fila 	| Columna 	|
-|---	|:---:	|:---:	|:---:	|
-| AL 	| TRUMP 	| 1 	| 6 	|
-| AR 	| BIDEN 	| 2 	| 2 	|
-| CA 	| BIDEN 	| 3 	| 0 	|
-| FL 	| TRUMP 	| 0 	| 7 	|
-| MI 	| BIDEN 	| 5 	| 7 	|
-  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Estado</th>
+    <th class="tg-c3ow">Ganador</th>
+    <th class="tg-c3ow">Fila</th>
+    <th class="tg-c3ow">Columna</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Alabama</td>
+    <td class="tg-c3ow">TRUMP</td>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">6</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Arizona</td>
+    <td class="tg-c3ow">BIDEN</td>
+    <td class="tg-c3ow">2</td>
+    <td class="tg-c3ow">2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">California</td>
+    <td class="tg-c3ow">BIDEN</td>
+    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">0</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Florida</td>
+    <td class="tg-0pky">TRUMP</td>
+    <td class="tg-0pky">0</td>
+    <td class="tg-0pky">7</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Michigan</td>
+    <td class="tg-0pky">BIDEN</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">7</td>
+  </tr>
+</tbody>
+</table>
 </div>
  
 - **Limitaciones:**

@@ -71,17 +71,19 @@
 ## Tile Grid Map
 - **Descripción:** Es un mapa en el que cada región geográfica está representada por losetas de la misma forma y tamaño. Éstas se organizan de tal manera que se mantienen las relaciones locales entre regiones, y a su vez la forma general del mapa original. Las losetas pueden ser de un color específico o incluso contener un gráfico. Este tipo de mapa permite observar regiones pequeñas que serían imperceptibles en mapas coropléticos tradicionales, y a la vez mantienen cierta lógica geográfica. Son útiles cuando el tamaño geográfico no es importante para el análisis.
 - **Ejemplos:** Comparar las tasas de criminalidad en los diferentes distritos de una ciudad, comparar las tasas de mortalidad del Covid-19 en cada región de Europa.
-- **Tipos de datos:** Numéricas y categóricas. Es necesario tener datos de identificación regional.
+- **Tipos de datos:** Numéricas y categóricas. Es necesario tener datos de identificación regional, y crear una rejilla en la que colocar las losetas.
 
 <div align="center">
   
-  Evolución de la proporción de individuos por nivel de estudios. 1970 - 2000
+  Resultados electorales EEUU 2020
   
-|  	| 1970 	| 1980 	| 1990 	| 2000 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
-| Inferior a bachillerato 	| 50% 	| 40% 	| 35% 	| 30% 	|
-| Bachillerato 	| 45% 	| 50% 	| 50% 	| 40% 	|
-| Estudios Universitarios 	| 5% 	| 10% 	| 15% 	| 30% 	|
+| Cod_estado 	| Ganador 	| Fila 	| Columna 	|
+|---	|:---:	|:---:	|:---:	|
+| AL 	| TRUMP 	| 1 	| 6 	|
+| AR 	| BIDEN 	| 2 	| 2 	|
+| CA 	| BIDEN 	| 3 	| 0 	|
+| FL 	| TRUMP 	| 0 	| 7 	|
+| MI 	| BIDEN 	| 5 	| 7 	|
   
 </div>
  
